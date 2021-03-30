@@ -14,3 +14,10 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/
+
+.history/
+
+settings.json
+.settings/
+.classpath
+.project
